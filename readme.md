@@ -10,4 +10,4 @@ Additional datasets further enriching benchmark's reference knowledge.
 
 ###Install
 
-Extract each of the archive files into folder 'data/datasets' folder.
+Extract each of the zipped files into folder 'data/datasets' folder.
