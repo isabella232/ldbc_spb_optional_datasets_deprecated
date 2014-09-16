@@ -11,4 +11,4 @@ Additional datasets further enriching benchmark's reference knowledge.
 
 ###Install
 
-Extract zipped files into 'data/datasets' folder.
+Extract zipped files into 'data/datasets' folder of the ldbc_spb_bm distribution.
